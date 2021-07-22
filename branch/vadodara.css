@@ -1,0 +1,80 @@
+body{
+	width:590px;
+	height:900px;
+	
+}
+.menubar{
+	background:black;
+	width:1330px;
+}
+.menu a{
+	color:white;
+	font-size:25px;
+	padding:20px;
+	text-decoration:none;
+}
+.menu a:hover{
+		color:orange;
+	
+}
+.head1{
+	font-size:38px;
+	margin:10px;
+	padding:10px;
+	width:800px;
+}
+.head2{
+	
+	font-size:30px;
+	margin:10px;
+	padding:10px;
+}
+.para{
+	width:600px;
+	font-size:20px;
+	margin:20px;
+	
+}
+.item a{
+	
+	color:orange;
+	padding:10px;
+	margin:10px;
+}
+.item a:hover{
+	color:blue;
+}
+.img{
+	padding:10px;
+}
+.pgimg{
+	padding:20px;
+}
+.pgimg:hover{
+
+	-moz-transition:transform 0.2s;
+	-webkit-transition:transform 0.2s;
+	transition:transform 0.2s;
+	box-shadow:0 0 20px rgba(0,0,0,5);
+	-moz-transform:scale(1.07);
+	-webkit-transform:scale(1.07);
+	transform:scale(1.07);
+
+}
+.m{
+	
+		position:relative;
+		bottom:65%;
+		left:748px;
+}
+.n{
+	font-size:23px;
+	width:250px;
+	padding:5px;
+	
+}
+.o{
+	font-size:40px;
+	color:orange;
+	
+}

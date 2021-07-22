@@ -1,0 +1,10 @@
+body {font-family: cursive; font-style: italic;}
+h1 {font-family: fantasy; font-size: 80px; line-height: 1;}
+p.para {line-height: 0; font-size: 30px;}
+img.image-size {width: 700px; height: 400px; float: left;
+		 margin-right: 30px; box-shadow: 0 0 10px rgba(0,0,0,5);}
+div.image {margin: 50px;} 
+div {margin: 50px 60px 40px;}
+div.div4 {position: absolute; left: 0; top: 1750px;}
+div.div5 {position: absolute; left: 0; top: 2300px;}
+div.div6 {position: absolute; left: 0; top: 2850px; padding-bottom: 50px;}

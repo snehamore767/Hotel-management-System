@@ -1,0 +1,53 @@
+body{
+	margin:0;
+	padding:0;
+	background:url(bckgl5.png);
+}
+.a{
+	background:linear-gradient(DeepSkyBlue, Orange);
+	width:1349px;
+	height:150px;
+	
+	
+}
+.b{
+	opacity:0.25;
+	color:white;
+	padding:30px;
+	font-size:40px;
+	float:right;
+}
+.c{
+	padding:50px;
+	border-radius:18%;
+}
+.d{
+	background:linear-gradient(Brown, Black);
+	width:1060px;
+	height:100px;
+	position:absolute;
+	top:23.4%;
+	left:18.4%;
+	color:white;
+	padding:20px;
+	font-size:30px;
+}
+.e{
+	margin-top:9%;
+	margin-left:23%;
+}
+.i{
+	box-shadow:10px 15px 30px rgba(0,0,0,9);
+}
+.f{
+	padding:20px;
+
+}	
+.g{
+	margin-left:1%;
+	
+}
+.h{
+	padding:20px;
+	
+}

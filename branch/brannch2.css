@@ -1,0 +1,37 @@
+.topimg{
+
+	background:url(brbk.png);
+	width:100%;
+	height:300px;
+	box-shadow:0 0 10px rgba(0,0,0,5);
+}
+.topheading{
+	font-size:100px;
+	box-shadow:0 0 10px rgba(0,0,0,5);
+}
+.brbckimg{
+	background-image:url(samosa.jpg);
+}
+.tabpad{
+	padding:15px;
+}
+.coleff{
+	-moz-transition:transform 0.2s;
+	-webkit-transition:transform 0.2s;
+	transition:transform 0.2s;
+	box-shadow:0 0 20px rgba(0,0,0,4);	
+}
+.coleff:hover{
+	-moz-transform:scale(1.05);
+	-webkit-transform:scale(1.05);
+	transform:scale(1.05);
+	box-shadow:0 0 20px rgba(0,0,0,5);
+}
+.mail{
+	background:black;
+	height:70px;	
+}
+.mlcen{
+	color:white;
+	padding:20px;
+}

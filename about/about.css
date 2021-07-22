@@ -1,0 +1,24 @@
+body {font-family: cursive; font-variant: cursive; font-style: italic;
+	font-weight: lighter;}
+/*div.image {background: url("img.jpg") no-repeat; height: 100vh;
+		background-size: cover; padding: 20px;}*/
+img.img1 {padding: 37px; height: 70vh; width: 94%; padding-top: 0; }
+
+div.inside {position: absolute; left: 200px; top: 350px; width: 800px;
+		background: #fff;   box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+		padding: 40px 100px 0; text-align: center; padding-bottom: 0;}
+p {line-height: 2;}
+h1 {font-size: 45px; font-weight: lighter; color:#00008B; letter-spacing: 8px; }
+div.about { background: #F5F5F5 ; height: 140vh; background-size: cover; margin:0 0 50px; }
+
+div.service {padding: 0 20px 20px; border: 1px solid #B0C4DE;}
+div.ins1 {width: 650px; margin-left:80px ;  padding-top: 20px;}
+img.img2 { width: 45%; height: 80%; padding-bottom: 50px; }
+div.ins {display: flex; background: #F5F5F5;  }
+div.award {display: inline;  }
+
+img.img3 {position: absolute; left: -20px; top: 1600px; border: 1px solid #B0C4DE;
+		width: 95%; height: 70vh; padding: 20px; margin: 30px;}
+div.ins3 {position: absolute; left: 300px; top: 1740px; width: 800px;
+		text-align: center; color:#000; font-size: 20px;}
+
